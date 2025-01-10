@@ -1,6 +1,6 @@
 <h1 align="center">Realtime Spotify Application Having Chat With Friends Feature ✨</h1>
 
-![Demo App](https://spotify-clone-theta-indol.vercel.app/)
+[Demo App](https://spotify-clone-theta-indol.vercel.app/)
 
 Features:
 
